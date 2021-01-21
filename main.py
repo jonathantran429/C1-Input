@@ -51,8 +51,8 @@ age = input("Enter your age: ")
 print ("You go to " + school)
 print ("You're in " + grade + " grade")
 print ("Your favorite color is " + favoriteColor)
-print ("The year that I was born is " + year)
-print ("I am " + age + " years old")
+print ("You were born in " + year)
+print ("You are " + age + " years old")
 
 print ("")
 
